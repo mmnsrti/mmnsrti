@@ -1,55 +1,44 @@
-### Hi there 👋
+# Welcome to My Profile! 👋
 
-<!--
-**mmnsrti/mmnsrti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/mmnsrti.png" alt="My Profile Picture" width="200" height="200" />
+</p>
 
-Here are some ideas to get you started:
+I'm Mohamad Mahdi Nosrati, a Front End Engineer with a passion for web development and a strong skill set in various technologies. Here are some of the skills I specialize in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there! I'm Mohamad Mahdi Nosrati
+### Front-End Development
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+- ![React Native](https://img.shields.io/badge/React%20Native-0088CC?style=for-the-badge&logo=react&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Front-End Engineer
+### Back-End Development
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-🚀 Welcome to my GitHub profile! I'm a passionate Front-End Engineer with a strong foundation in web development technologies. My skills and experience include:
+### UI/UX and Styling
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-- React
-- React Native
-- Expo
-- Mongoose MongoDB
-- Next.js
-- Tailwind CSS
-- HTML
-- CSS
-- JavaScript
-- Vite
-- Sanity
-- React Google Login
-- Redux
-- Node.js
-- JWT (JSON Web Tokens)
-- Base64 Encoding/Decoding
-- Express.js
-- Axios
-- Material-UI
-- Redux Thunk
-- Redux Toolkit
-- Bcrypt (for password hashing)
+### State Management and API Integration
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+- ![Axios](https://img.shields.io/badge/Axios-61DAFB?style=for-the-badge)
 
-## My GitHub Stats
+### Authentication and Security
+- ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+- ![Bcrypt](https://img.shields.io/badge/Bcrypt-000000?style=for-the-badge&logo=npm&logoColor=white)
 
-Here are some statistics about my GitHub contributions:
+### Other Tools and Libraries
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+- ![Sanity](https://img.shields.io/badge/Sanity-333333?style=for-the-badge&logo=sanity&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmnsrti&show_icons=true&count_private=true&theme=algolia)
+### Contact Me
+- Email: [mmnsrti@gmail.com](mailto:mmnsrti@gmail.com)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/mohamad-mahdi-nosrati-4b6988269/)
 
-## Get in Touch
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmnsrti&show_icons=true&count_private=true)
 
-📫 Feel free to contact me at mmnsrti@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamad-mahdi-nosrati-4b6988269/). I'm always open to discussing new projects, collaborations, and learning opportunities.
-
+I'm always eager to collaborate and work on exciting projects. Feel free to get in touch if you'd like to connect or discuss potential opportunities!
