@@ -14,38 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Welcome to My Portfolio!</h1>
+# Hi there! I'm Mohamad Mahdi Nosrati
 
-## Skills
+## Front-End Engineer
 
-### Front-end Skills
-- React <img src="react-icon.png" alt="React" width="20" height="20" />
-- React Native <img src="react-native-icon.png" alt="React Native" width="20" height="20" />
-- Next.js <img src="nextjs-icon.png" alt="Next.js" width="20" height="20" />
-- HTML <img src="html-icon.png" alt="HTML" width="20" height="20" />
-- CSS <img src="css-icon.png" alt="CSS" width="20" height="20" />
-- JavaScript <img src="javascript-icon.png" alt="JavaScript" width="20" height="20" />
-- Tailwind CSS <img src="tailwind-icon.png" alt="Tailwind CSS" width="20" height="20" />
-- Vite <img src="vite-icon.png" alt="Vite" width="20" height="20" />
-- Sanity <img src="sanity-icon.png" alt="Sanity" width="20" height="20" />
-- Material-UI <img src="materialui-icon.png" alt="Material-UI" width="20" height="20" />
+🚀 Welcome to my GitHub profile! I'm a passionate Front-End Engineer with a strong foundation in web development technologies. My skills and experience include:
 
-### Back-end Skills
-- Node.js <img src="nodejs-icon.png" alt="Node.js" width="20" height="20" />
-- MongoDB (Mongoose) <img src="mongodb-icon.png" alt="MongoDB" width="20" height="20" />
-- Express.js <img src="expressjs-icon.png" alt="Express.js" width="20" height="20" />
-- JWT <img src="jwt-icon.png" alt="JWT" width="20" height="20" />
-- Axios <img src="axios-icon.png" alt="Axios" width="20" height="20" />
+- React
+- React Native
+- Expo
+- Mongoose MongoDB
+- Next.js
+- Tailwind CSS
+- HTML
+- CSS
+- JavaScript
+- Vite
+- Sanity
+- React Google Login
+- Redux
+- Node.js
+- JWT (JSON Web Tokens)
+- Base64 Encoding/Decoding
+- Express.js
+- Axios
+- Material-UI
+- Redux Thunk
+- Redux Toolkit
+- Bcrypt (for password hashing)
 
-### State Management and Other Tools
-- Redux <img src="redux-icon.png" alt="Redux" width="20" height="20" />
-- Redux Thunk <img src="redux-thunk-icon.png" alt="Redux Thunk" width="20" height="20" />
-- Redux Toolkit <img src="redux-toolkit-icon.png" alt="Redux Toolkit" width="20" height="20" />
-- React Google Login <img src="react-google-login-icon.png" alt="React Google Login" width="20" height="20" />
-- Axios <img src="axios-icon.png" alt="Axios" width="20" height="20" />
-- bcrypt <img src="bcrypt-icon.png" alt="bcrypt" width="20" height="20" />
-- Base64 <img src="base64-icon.png" alt="Base64" width="20" height="20" />
-- and more...
+## My GitHub Stats
 
-## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark" alt="GitHub Stats" />
+Here are some statistics about my GitHub contributions:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmnsrti&show_icons=true&count_private=true&theme=algolia)
+
+## Get in Touch
+
+📫 Feel free to contact me at mmnsrti@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamad-mahdi-nosrati-4b6988269/). I'm always open to discussing new projects, collaborations, and learning opportunities.
+
