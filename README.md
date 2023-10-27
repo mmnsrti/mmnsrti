@@ -1,44 +1,46 @@
-# Welcome to My Profile! 👋
+# Mohamad Mahdi Nosrati
 
 <p align="center">
-  <img src="https://github.com/mmnsrti.png" alt="My Profile Picture" width="200" height="200" />
+  <a href="https://github.com/mmnsrti">
+    <img src="https://img.shields.io/github/followers/mmnsrti?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamad-mahdi-nosrati-4b6988269/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mmnsrti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red" alt="Email" />
+  </a>
 </p>
 
-I'm Mohamad Mahdi Nosrati, a Front End Engineer with a passion for web development and a strong skill set in various technologies. Here are some of the skills I specialize in:
+## Skills
 
-### Front-End Development
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-- ![React Native](https://img.shields.io/badge/React%20Native-0088CC?style=for-the-badge&logo=react&logoColor=white)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Here are the skills that I possess as a Front End Engineer:
 
-### Back-End Development
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- **React**: ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+- **React Native**: ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)
+- **Expo**: ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+- **Mongoose MongoDB**: ![Mongoose](https://img.shields.io/badge/Mongoose-47A248?logo=mongodb&logoColor=white)
+- **Next.js**: ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+- **Tailwind CSS**: ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+- **HTML**: ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+- **CSS**: ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+- **JavaScript**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- **Vite**: ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+- **Sanity**: ![Sanity](https://img.shields.io/badge/Sanity-333333?logo=sanity&logoColor=white)
+- **Redux**: ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+- **Node.js**: ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+- **JWT**: ![JWT](https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white)
+- **Express.js**: ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+- **Axios**: ![Axios](https://img.shields.io/badge/Axios-000000?logo=axios&logoColor=white)
+- **Material-UI**: ![Material-UI](https://img.shields.io/badge/Material_UI-0081CB?logo=material-ui&logoColor=white)
+- **Redux-Thunk**: ![Redux-Thunk](https://img.shields.io/badge/Redux-Thunk-764ABC?logo=redux&logoColor=white)
+- **Redux Toolkit**: ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
+- **bcrypt**: ![bcrypt](https://img.shields.io/badge/bcrypt-BC0101?logo=node.js&logoColor=white)
 
-### UI/UX and Styling
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-- ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamad-mahdi-nosrati-4b6988269/) or contact me via [Email](mailto:mmnsrti@gmail.com) for any inquiries or collaboration opportunities.
 
-### State Management and API Integration
-- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-- ![Axios](https://img.shields.io/badge/Axios-61DAFB?style=for-the-badge)
+## GitHub Stats
 
-### Authentication and Security
-- ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-- ![Bcrypt](https://img.shields.io/badge/Bcrypt-000000?style=for-the-badge&logo=npm&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmnsrti&show_icons=true&theme=dark)
 
-### Other Tools and Libraries
-- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-- ![Sanity](https://img.shields.io/badge/Sanity-333333?style=for-the-badge&logo=sanity&logoColor=white)
-
-### Contact Me
-- Email: [mmnsrti@gmail.com](mailto:mmnsrti@gmail.com)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/mohamad-mahdi-nosrati-4b6988269/)
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmnsrti&show_icons=true&count_private=true)
-
-I'm always eager to collaborate and work on exciting projects. Feel free to get in touch if you'd like to connect or discuss potential opportunities!
+Explore my GitHub repositories and let's build something great together!
