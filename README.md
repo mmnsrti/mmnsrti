@@ -1,8 +1,17 @@
 # Mohamad Mahdi Nosrati
 
 I'm Mohamad Mahdi Nosrati, a Front End Engineer with a passion for crafting innovative and user-friendly web and mobile applications. With a strong foundation in web development technologies and frameworks, I bring creative and efficient solutions to life. Let's connect, collaborate, and build amazing projects together!
-
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/mohamad-mahdi-nosrati-4b6988269/) or via [Email](mailto:mmnsrti@gmail.com) for inquiries or exciting opportunities.
+<p align="center">
+  <a href="https://github.com/mmnsrti">
+    <img src="https://img.shields.io/github/followers/mmnsrti?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamad-mahdi-nosrati-4b6988269/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mmnsrti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red" alt="Email" />
+  </a>
+</p>
 
 # Skills
 
@@ -32,5 +41,5 @@ Here are some of the skills I bring to the table:
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmnsrti&show_icons=true&theme=dark)
-
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/mohamad-mahdi-nosrati-4b6988269/) or via [Email](mailto:mmnsrti@gmail.com) for inquiries or exciting opportunities.
 Explore my GitHub repositories and let's build something great together!
