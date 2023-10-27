@@ -12,9 +12,13 @@
   </a>
 </p>
 
+## About Me
+
+I am a highly skilled Front-End Engineer with a passion for creating interactive and engaging web applications. With a strong foundation in a variety of cutting-edge technologies, I have the expertise to turn ideas into functional and visually appealing digital experiences. I'm dedicated to continuous learning and staying up-to-date with the latest industry trends.
+
 ## Skills
 
-As a Front End Engineer, I possess a diverse set of skills that include, but are not limited to:
+Here are the skills that I possess:
 
 - **React**: ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 - **React Native**: ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)
@@ -43,4 +47,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamad-m
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmnsrti&show_icons=true&theme=dark)
 
-Explore my GitHub repositories, and let's work together to create something exceptional!
+Explore my GitHub repositories and let's build something great together!
