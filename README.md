@@ -1,26 +1,15 @@
-Certainly! Here's a revised and styled version of your profile README:
-
----
-
 # Mohamad Mahdi Nosrati
 
-Hey there! I'm Mohamad Mahdi Nosrati, a passionate Front End Engineer with expertise in a wide range of technologies. I enjoy building delightful user experiences and crafting robust applications. Here's a glimpse of my skills and a few places where you can connect with me.
+I am a highly skilled Front End Engineer with expertise in various technologies. I have a passion for creating dynamic and visually appealing web and mobile applications. My goal is to bring innovative ideas to life through code and deliver exceptional user experiences.
 
-<p align="center">
-  <a href="https://github.com/mmnsrti">
-    <img src="https://img.shields.io/github/followers/mmnsrti?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamad-mahdi-nosrati-4b6988269/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mmnsrti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red" alt="Email" />
-  </a>
-</p>
+Connect with me:
+- [GitHub](https://github.com/mmnsrti)
+- [LinkedIn](https://www.linkedin.com/in/mohamad-mahdi-nosrati-4b6988269/)
+- Email: [mmnsrti@gmail.com](mailto:mmnsrti@gmail.com)
 
 ## Skills
 
-As a Front End Engineer, I'm proficient in the following technologies:
+Here are the skills that I possess as a Front End Engineer:
 
 - **React**: ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 - **React Native**: ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)
@@ -47,11 +36,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamad-m
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmnsrti&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmnsrti&show_icons=true&theme=dark)
 
 Explore my GitHub repositories and let's build something great together!
----
-
-Feel free to further adjust the content or styling according to your preferences!
