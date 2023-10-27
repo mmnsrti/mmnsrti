@@ -1,4 +1,10 @@
+Certainly! Here's a revised and styled version of your profile README:
+
+---
+
 # Mohamad Mahdi Nosrati
+
+Hey there! I'm Mohamad Mahdi Nosrati, a passionate Front End Engineer with expertise in a wide range of technologies. I enjoy building delightful user experiences and crafting robust applications. Here's a glimpse of my skills and a few places where you can connect with me.
 
 <p align="center">
   <a href="https://github.com/mmnsrti">
@@ -12,13 +18,9 @@
   </a>
 </p>
 
-## About Me
-
-I am a highly skilled Front-End Engineer with a passion for creating interactive and engaging web applications. With a strong foundation in a variety of cutting-edge technologies, I have the expertise to turn ideas into functional and visually appealing digital experiences. I'm dedicated to continuous learning and staying up-to-date with the latest industry trends.
-
 ## Skills
 
-Here are the skills that I possess:
+As a Front End Engineer, I'm proficient in the following technologies:
 
 - **React**: ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 - **React Native**: ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)
@@ -45,6 +47,11 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamad-m
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmnsrti&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmnsrti&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
 Explore my GitHub repositories and let's build something great together!
+---
+
+Feel free to further adjust the content or styling according to your preferences!
