@@ -14,7 +14,7 @@
 
 ## Skills
 
-Here are the skills that I possess as a Front End Engineer:
+As a Front End Engineer, I possess a diverse set of skills that include, but are not limited to:
 
 - **React**: ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 - **React Native**: ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)
@@ -43,4 +43,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamad-m
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmnsrti&show_icons=true&theme=dark)
 
-Explore my GitHub repositories and let's build something great together!
+Explore my GitHub repositories, and let's work together to create something exceptional!
