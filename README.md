@@ -41,5 +41,6 @@ Here are some of the skills I bring to the table:
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmnsrti&show_icons=true&theme=dark)
+
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/mohamad-mahdi-nosrati-4b6988269/) or via [Email](mailto:mmnsrti@gmail.com) for inquiries or exciting opportunities.
 Explore my GitHub repositories and let's build something great together!
