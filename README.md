@@ -140,36 +140,30 @@ Ablation Studies
 
 <br/>
 
-## GitHub Pulse
+### GitHub Pulse
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmnsrti&theme=github_dark&animation=load&duration=2.5" width="100%" alt="GitHub profile details" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmnsrti&theme=github_dark&animation=rise&duration=2" width="49%" alt="GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmnsrti&theme=github_dark&animation=draw&duration=2" width="49%" alt="Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mmnsrti&theme=github-compact&hide_border=true&area=true&radius=8&days=31&custom_title=Recent%20GitHub%20Activity" width="100%" alt="Recent GitHub activity" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<sub>Contribution activity</sub>
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmnsrti/mmnsrti/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmnsrti/mmnsrti/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mmnsrti/mmnsrti/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mmnsrti/mmnsrti/output/github-snake.svg" width="82%" alt="GitHub contribution snake" />
 </picture>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmnsrti&theme=github_dark&animation=rise&duration=2" width="40%" alt="GitHub stats" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmnsrti&theme=github_dark&animation=draw&duration=2" width="40%" alt="GitHub languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=mmnsrti&theme=github-dark-blue&hide_border=true&border_radius=8" width="52%" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/mmnsrti?style=flat-square&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/stars/mmnsrti?affiliations=OWNER&style=flat-square&logo=github&label=Stars" />
 
 </div>
 
